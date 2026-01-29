@@ -20,7 +20,6 @@ function App() {
         "1 tablespoon butter or oil",
         "Optional fillings: cheese, diced vegetables, cooked meats, herbs"
       ]}
-      
       instructions={[
         {
           id: 1,

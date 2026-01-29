@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 body {
+    min-height: 100dvh;
     background-color: hsl(30, 54%, 90%);
     font-family: 'Outfit', sans-serif;
     font-size: 1rem;
@@ -13,5 +14,5 @@ body {
     min-height: 100dvh;
     display: flex;
     justify-content: center;
-    align-self: center;
+    align-items: center;
 }
