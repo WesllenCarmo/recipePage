@@ -5,7 +5,7 @@ import recipeImage from './assets/images/image-omelette.jpeg'
 function App() {
 
   return (
-    <>
+    <div className="App">
       <RecipeCard
       recipeImage={recipeImage}
       title="Simple Omelette Recipe"
@@ -57,7 +57,7 @@ function App() {
         fat: "22g"
       }}
       />
-    </>
+    </div>
   )
 }
 
