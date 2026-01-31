@@ -5,6 +5,10 @@ The project is a single-page application featuring a centered recipe post.
     
 This project is a challenge from the Frontend Mentor website, a platform where developers can practice and improve their skills by building web applications based on provided designs. Although the project was originally intended to be built using HTML5 and CSS3, I chose to implement it using React in order to further develop my React.js skills. <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">Click here</a> to access the challenge page.
 
+## Live Preview
+
+<a href="https://recipe-page-rho-lilac.vercel.app/">Click here</a> to visit the live preview website.
+
 ## Features
 
 - Use of React props to build a reusable component
@@ -16,10 +20,11 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 
 ## Skills
 
-[![](https://skillicons.dev/icons?i=react,html)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
 - React.js
 - HTML5
+- CSS3
   
 ## Support
 
@@ -28,6 +33,7 @@ If you have any questions or suggestions about this project, feel free to contac
 ## Authors
 
 - [@WesllenCarmo](https://www.github.com/WesllenCarmo) - Web Developer
+
 
 
 
