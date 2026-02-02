@@ -15,7 +15,7 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 ### Mobile
 
 <p align="center">
-    <img src="screenshots/mobilePreview.jpg" width="350" height="630" alt="A mobile preview of a website with a recipe page centred in a light-orange-coloured background."/>
+    <img src="screenshots/mobilePreview.jpg" width="350" alt="A mobile preview of a website with a recipe page centred in a light-orange-coloured background."/>
 </p>
 
 ## Live Preview
@@ -46,3 +46,4 @@ If you have any questions or suggestions about this project, feel free to contac
 ## Authors
 
 - [@WesllenCarmo](https://www.github.com/WesllenCarmo) - Web Developer
+
